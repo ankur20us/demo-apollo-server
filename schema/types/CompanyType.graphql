@@ -1,0 +1,7 @@
+
+type Company {
+  id: String
+  name: String
+  description: String,
+  users: [User]
+}
