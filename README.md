@@ -19,5 +19,4 @@ These all routes are available out of the box as soon as you start the json-serv
 
 ## To start the server
 
-npm install
-npm start
+npm install && npm start
